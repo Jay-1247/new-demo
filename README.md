@@ -1,4 +1,4 @@
 # new-demo
 This is my first Git repositary
 <br>
-Author-Jay Thakkar
+Author-Jay Yogesh Thakkar
